@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Daftar Matakuliah</string>
+    <string name="mk1">Olimpisme</string>
+    <string name="sks1">2</string>
+    <string name="mk2">Matematika Diskrit</string>
+    <string name="sks2">3</string>
+    <string name="mk3">Teori Bahasa dan Automata</string>
+    <string name="sks3">3</string>
+    <string name="mk4">Mobile Computing</string>
+    <string name="sks4">3</string>
+    <string name="mk5">Bahasa Indonesia</string>
+    <string name="sks5">2</string>
+    <string name="mk6">Bahasa Inggris</string>
+    <string name="sks6">2</string>
+    <string name="mk7">Aljabar Linear</string>
+    <string name="sks7">3</string>
+    <string name="mk8">Perancangan Pemrograman Web</string>
+    <string name="sks8">3</string>
+    <string name="mk9">Data Mining</string>
+    <string name="sks9">3</string>
+    <string name="mk10">Etika Profesi</string>
+    <string name="sks10">2</string>
+</resources>
